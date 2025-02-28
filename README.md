@@ -47,7 +47,7 @@
 ###
 
 <div align="left">
-  <a href="sanukagamage@gmail.com" target="_blank">
+  <a href="mailto:sanukagamage@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="36" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/sanuka-gamage-939763292/" target="_blank">
@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/_sg.media/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="36" alt="instagram logo"  />
   </a>
-  <a href="[sdg03](https://discord.com/users/654754582207004703)" target="_blank">
+  <a href="https://discord.com/users/654754582207004703" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="36" alt="discord logo"  />
   </a>
 </div>
