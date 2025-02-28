@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://media.giphy.com/media/eHQ5BsgBIBIGI/giphy.gif?cid=790b761157hsqwjsrur8e7k8zsu62j90seop25hj8190fwhc&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
 ###
@@ -56,7 +56,7 @@
   <a href="https://www.instagram.com/_sg.media/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="36" alt="instagram logo"  />
   </a>
-  <a href="sdg03" target="_blank">
+  <a href="[sdg03](https://discord.com/users/654754582207004703)" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="36" alt="discord logo"  />
   </a>
 </div>
